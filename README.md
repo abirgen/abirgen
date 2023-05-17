@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android Development**
 
 - 📫 How to reach me **birgenallan@gmail.com**
 
